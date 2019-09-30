@@ -1,3 +1,6 @@
+This App lets you see the HireVue interview questions before you take them.
+inspired by yellowbmt post on reddit.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
